@@ -22,7 +22,7 @@ ZeroMQ is not limited to a specific programming language; it has bindings for ma
 
 ![sample code image ](images/codes.png)
 
-![output ]images/withoutput.png)
+![ with output ](images/withoutput.png)
 
 
 # sender code explaination 
